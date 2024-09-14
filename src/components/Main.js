@@ -145,23 +145,23 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" href="Suhailkhansj11@gmail.com">
-                <motion.h2
-                initial={{
-                    y:-200,
-                    transition: { type:'spring', duration: 1.5, delay:1}
-                }}
-                animate={{
-                    y:0,
-                    transition: { type:'spring', duration: 1.5, delay:1}
-                }}
-                whileHover={{scale: 1.1}}
-                whileTap={{scale: 0.9}}
-                
-                >
-                    Contact
-                </motion.h2>
-            </Contact>
+            <Contact target="_blank" href="mailto:Suhailkhansj11@gmail.com">
+    <motion.h2
+        initial={{
+            y: -200,
+            transition: { type: 'spring', duration: 1.5, delay: 1 }
+        }}
+        animate={{
+            y: 0,
+            transition: { type: 'spring', duration: 1.5, delay: 1 }
+        }}
+        whileHover={{ scale: 1.1 }}
+        whileTap={{ scale: 0.9 }}
+    >
+        Contact
+    </motion.h2>
+</Contact>
+
 
             <BLOG to="https://suhail-book-slider.vercel.app/">
                 <motion.h2
