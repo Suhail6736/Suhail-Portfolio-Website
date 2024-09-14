@@ -145,7 +145,7 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            {/* <Contact target="_blank" href="mailto:codebucks27@gmail.com">
+            <Contact target="_blank" href="Suhailkhansj11@gmail.com">
                 <motion.h2
                 initial={{
                     y:-200,
@@ -159,10 +159,11 @@ const Main = () => {
                 whileTap={{scale: 0.9}}
                 
                 >
-                    Say hi..
+                    Contact
                 </motion.h2>
-            </Contact> */}
-            {/* <BLOG to="/blog">
+            </Contact>
+
+            <BLOG to="https://suhail-book-slider.vercel.app/">
                 <motion.h2
                 initial={{
                     y:-200,
@@ -175,9 +176,11 @@ const Main = () => {
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
                 >
-                    Blog
+                    See More
                 </motion.h2>
-            </BLOG> */}
+            </BLOG>
+
+
             <WORK to="/work" click={+click}>
                 <motion.h2
                 initial={{
