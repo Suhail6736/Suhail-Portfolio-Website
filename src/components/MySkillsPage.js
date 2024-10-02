@@ -37,6 +37,8 @@ font-family: 'Ubuntu Mono',monospace;
 display: flex;
 flex-direction: column;
 justify-content: space-between;
+word-wrap: break-word;
+
 
 &:hover{
     color: ${props => props.theme.body};
