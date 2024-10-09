@@ -10,16 +10,6 @@ This website is built using **React.js** and leverages popular libraries to enha
 - **Styled-components**: To handle complex styling in a modular way.
 - **React-tsparticles**: To create engaging particle background animations.
 
-## 🌟 What I Learned
-
-While building this portfolio, I gained valuable insights into:
-
-- Complex styling techniques using **Styled-components**.
-- Creating seamless page transitions with **Framer Motion**.
-- Optimizing website performance with **Lazy Loading** and **Suspense** in React.
-- Adding dynamic background effects with **React-tsparticles** (ParticleJS).
-- The benefits of component-based architecture in React.
-- Implementing pure **CSS animations** for various interactive elements.
 
 ## ✨ Key Features
 
@@ -37,7 +27,7 @@ Here are some screenshots of my portfolio website:
 
 ### Homepage
 
-![Homepage](https://via.placeholder.com/800x400.png?text=Portfolio+Homepage)
+![Homepage](https://github.com/user-attachments/assets/f238993f-89c9-4bf9-b7d7-d02aba379674)
 
 ### About Page
 
@@ -47,6 +37,8 @@ Here are some screenshots of my portfolio website:
 
 ![Projects Page](https://via.placeholder.com/800x400.png?text=Projects+Page)
 
-### Contact Page
+
 
 ![Contact Page](https://via.placeholder.com/800x400.png?text=Contact+Page)
+
+
