@@ -28,17 +28,19 @@ Here are some screenshots of my portfolio website:
 ### Homepage
 
 ![Homepage](https://github.com/user-attachments/assets/f238993f-89c9-4bf9-b7d7-d02aba379674)
+![homepage2](https://github.com/user-attachments/assets/e0b6a684-045b-4786-8feb-bc17354b9c8b)
 
 ### About Page
 
-![About Page](https://via.placeholder.com/800x400.png?text=About+Page)
+![About Page](https://github.com/user-attachments/assets/1fd4767a-be1c-40c9-ab22-09fd2e61e488)
 
 ### Projects Page
 
-![Projects Page](https://via.placeholder.com/800x400.png?text=Projects+Page)
+![Projects PAge](https://github.com/user-attachments/assets/b302203c-7509-4743-ab64-87d2888640c6)
+
+## Responsive Page
+![](https://github.com/user-attachments/assets/a99ebf64-c22b-4a1b-b555-0424021e8016)
 
 
-
-![Contact Page](https://via.placeholder.com/800x400.png?text=Contact+Page)
 
 
